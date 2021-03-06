@@ -1,0 +1,28 @@
+com/epam/automation/driver/WebDriverFactory.java
+ com.epam.automation.driver.WebDriverFactory
+com/epam/automation/service/UserFactory.java
+ com.epam.automation.service.UserFactory
+com/epam/automation/model/User.java
+ com.epam.automation.model.User
+com/epam/automation/page/RepositoryPage.java
+ com.epam.automation.page.RepositoryPage
+com/epam/automation/page/IssuesPage.java
+ com.epam.automation.page.IssuesPage
+com/epam/automation/page/FilesPage.java
+ com.epam.automation.page.FilesPage
+com/epam/automation/page/IssuePage.java
+ com.epam.automation.page.IssuePage
+com/epam/automation/page/AbstractPage.java
+ com.epam.automation.page.AbstractPage
+com/epam/automation/page/LoginPage.java
+ com.epam.automation.page.LoginPage
+com/epam/automation/page/EditFilePage.java
+ com.epam.automation.page.EditFilePage
+com/epam/automation/page/MainPage.java
+ com.epam.automation.page.MainPage
+com/epam/automation/utils/WaitActions.java
+ com.epam.automation.utils.WaitActions
+com/epam/automation/page/IssueCreationPage.java
+ com.epam.automation.page.IssueCreationPage
+com/epam/automation/utils/VerificationEmailUtil.java
+ com.epam.automation.utils.VerificationEmailUtil
