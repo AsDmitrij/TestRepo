@@ -1,0 +1,6 @@
+com/epam/automation/tests/AbstractTest.java
+ com.epam.automation.tests.AbstractTest
+com/epam/automation/tests/IssueTabTests.java
+ com.epam.automation.tests.IssueTabTests
+com/epam/automation/tests/UserAccessTests.java
+ com.epam.automation.tests.UserAccessTests
